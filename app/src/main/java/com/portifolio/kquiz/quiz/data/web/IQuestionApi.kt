@@ -6,7 +6,7 @@ import retrofit2.http.Query
 
 interface IQuestionApi {
 
-    @GET
+    @GET("/api.php")
     suspend fun getQuestions(
         @Query("amount") amount: String,
         @Query("category") category: Int,
