@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">KQuiz</string>
+    <string name="no_questions_were_found_please_try_changing_the_parameters">No questions were found, please try changing the parameters</string>
+    <string name="an_invalid_parameter_was_specified">An invalid parameter was specified</string>
+    <string name="token_not_found">Token Not Found</string>
+    <string name="there_are_no_more_new_to_be_answered_please_try_changing_the_parameters">There are no more new to be answered, please try changing the parameters</string>
+    <string name="too_many_requests_to_the_server_please_try_again_later">Too many requests to the server, please try again later</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="route_was_not_found">Route was not Found</string>
+    <string name="next">Next</string>
+    <string name="correct_answer">Correct answer</string>
+    <string name="correct">Correct!</string>
+    <string name="wrong">Wrong!</string>
+    <string name="timer">Timer</string>
+    <string name="retry">Retry</string>
+    <string name="try_to_load_data_again">Try to load data again</string>
+    <string name="finish">Finish</string>
+    <string name="finish_game">Finish game</string>
+    <string name="score_x_slash_y">Score: %1$s/%2$s</string>
+    <string name="go_back">Go back</string>
+    <string name="you_ve_finished_all_questions_well_done">You\'ve finished all questions, well done!</string>
+    <string name="select_the_number_of_questions">Select the number of questions:</string>
+    <string name="select_the_number_of_possible_answers">Select the number of possible answers:</string>
+    <string name="select_a_level">Select a level:</string>
+    <string name="select_a_category">Select a category:</string>
+    <string name="play">Play</string>
+    <string name="recent_scores">Recent scores</string>
+</resources>
